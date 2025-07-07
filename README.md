@@ -1,5 +1,5 @@
 # nginx-terrafrom-poc
-Code for deploying microservice resources in GKE using helm chart .
+Code for deploying microservice resources in GKE using helm chart and provision an instance using Terraform.
 
 # helmchart and Github workflow
 Deploy webserver using helmchart with github workflow under .github/workflows directory
