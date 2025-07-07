@@ -19,7 +19,7 @@ nginx-chart/
 └── workflows/
     └── pod-helm-cicd.yaml
 
-# Terraform
+##  Chart Structure
 Provision a rocky linux instance using Terraform with code in Terraform Directory
 
 #  Terraform directory Structure
