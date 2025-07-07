@@ -17,7 +17,7 @@ nginx-chart/
 # github workflow
 .github/
 └── workflows/
-    └── pod-ci-cd.deploy.yaml
+    └── pod-helm-cicd.yaml
 
 # Terraform
 Provision a rocky linux instance using Terraform with code in Terraform Directory
