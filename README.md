@@ -14,7 +14,7 @@ nginx-chart/
     ├── deployment.yaml  # k8s Deployment template
     └── service.yaml        # k8s svc template
 
-# **github workflow**
+# github workflow
 .github/
 └── workflows/
     └── pod-ci-cd.deploy.yaml
@@ -22,7 +22,7 @@ nginx-chart/
 # Terraform
 Provision a rocky linux instance using Terraform with code in Terraform Directory
 
-##  **Project Structure**
+#  Terraform directory Structure
 
 ```
 .
