@@ -24,7 +24,7 @@ Provision a rocky linux instance using Terraform with code in Terraform Director
 
 #  Terraform directory Structure
 
-```
+``` bash
 terraform/
 ├── main.tf         # Core resources (Compute Engine instance)
 ├── variables.tf    # Input variables ( machine type, zone, vpc,subnet)
